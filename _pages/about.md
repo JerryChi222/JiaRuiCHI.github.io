@@ -17,5 +17,5 @@ This site is powered by the [Academic Pages template](https://github.com/academi
 
 ## Education
 - **2022 - 2026**: Undergraduate student at **TianJin University**  
-  --Focus: **Artificial Intelligence** and **Machine Learning**.
-  --Email: cjr_997143002@tju.edu.cn
+  - Focus: **Artificial Intelligence** and **Machine Learning**.
+  - Email: cjr_997143002@tju.edu.cn
